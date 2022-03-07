@@ -1,6 +1,6 @@
 {
     "name": "ResetAttackCooldownPatch",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/Senyksia/Rounds-RACP",
     "description": "Fixes a bug that causes attack-cooldown to persist between rounds, points, and death.",
     "dependencies": [

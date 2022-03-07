@@ -10,7 +10,7 @@ namespace ResetAttackCooldownPatch
     {
         private const string ModID = "senyksia.rounds.plugins.resetattackcooldownpatch";
         private const string ModName = "Reset Attack-Cooldown Patch";
-        private const string ModVersion = "1.0.0";
+        private const string ModVersion = "1.0.1";
 
         private void Awake()
         {
